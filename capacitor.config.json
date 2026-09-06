@@ -1,0 +1,9 @@
+{
+  "appId": "com.aditya95595.ludochaos",
+  "appName": "Ludo Chaos",
+  "webDir": "dist",
+  "bundledWebRuntime": false,
+  "server": {
+    "androidScheme": "https"
+  }
+}
